@@ -1,1 +1,2 @@
 This is the demo of the git repository project
+Repositoy was log in the git hub account
